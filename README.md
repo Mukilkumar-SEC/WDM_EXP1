@@ -97,9 +97,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-## Weather Table after removing attributes WINDY, PLAY:
+### Weather Table after removing attributes WINDY, PLAY:
 ![WDM Ex 1 C iii](https://github.com/user-attachments/assets/212d5f89-3f8b-4efc-be14-cb0d37fb7652)
-## Employee Table after removing attributes SALARY, GENDER:
+### Employee Table after removing attributes SALARY, GENDER:
 ![WDM Ex 1 D iii](https://github.com/user-attachments/assets/c94d9eef-396e-4643-b44e-14a39bd17a89)
 
 ### Normalize -> Pre-Processing Technique:
@@ -117,9 +117,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-## Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+### Weather Table after Normalizing TEMPARATURE, HUMIDITY:
 ![WEB Ex 1 C iv](https://github.com/user-attachments/assets/8ca1f92a-2cea-48c6-94b5-ae306e06ae25)
-## Employee Table after Normalizing ID, EXP, PHONE:
+### Employee Table after Normalizing ID, EXP, PHONE:
 ![WDM Ex 1 D iv](https://github.com/user-attachments/assets/33c0b3f5-7461-4a43-9559-1fbf56e14a9f)
 
 ### RESULT: 
